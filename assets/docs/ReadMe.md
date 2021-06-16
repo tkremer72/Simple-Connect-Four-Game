@@ -7,3 +7,10 @@
      Double click project to open in browser.
 
 # Functions/Methods Highlighted In This App
+     querySelector()
+     addEventListener()
+     onclick
+     classList.contains()
+     classList.add()
+     For Loops
+     Arrow Functions
