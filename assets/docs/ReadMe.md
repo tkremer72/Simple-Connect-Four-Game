@@ -14,3 +14,8 @@
      classList.add()
      For Loops
      Arrow Functions
+
+# Added My Own Flair
+     Made the grid bigger from the original
+     Added a grid gap and compensated for it
+     Added a game reset function for when there is a winner
