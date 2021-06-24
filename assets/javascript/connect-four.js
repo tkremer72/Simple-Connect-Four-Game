@@ -137,3 +137,17 @@ document.addEventListener("DOMContentLoaded", () => {
   //Add an event Listener to each square that will trigger the checkBoard function on click
   squares.forEach((square) => square.addEventListener("click", checkBoard));
 });
+
+//About me Modal Control
+$(document).ready(function () {
+  $("#aboutMeBtn").click(function () {
+    $("#aboutMeModal").modal();
+  });
+});
+
+//Contact Form Modal Control
+$(document).ready(function () {
+  $("#contactBtn").click(function () {
+    $("#contactModal").modal();
+  });
+});
